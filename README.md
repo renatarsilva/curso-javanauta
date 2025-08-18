@@ -25,9 +25,9 @@ O conteúdo foi concluído no **sábado, 16 de agosto de 2025**
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash
+   ``bash
    git clone https://github.com/renatarsilva/curso-javanauta-java-basico.git
-````
+``
 
 2. Abra o projeto na sua IDE preferida (como IntelliJ IDEA ou Eclipse).
 
@@ -35,7 +35,7 @@ O conteúdo foi concluído no **sábado, 16 de agosto de 2025**
 
 ## Sobre o Curso
 
-Este projeto segue passo a passo os conteúdos da playlist **"Curso Java Básico"**, abordando conceitos fundamentais como:
+Este projeto segue passo a passo os conteúdos da playlist "Curso Java Básico", abordando conceitos fundamentais como:
 
 * Configuração do ambiente Java
 * Estrutura básica de programas
