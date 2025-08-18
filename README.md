@@ -3,8 +3,7 @@
 Este repositório reúne o código-fonte desenvolvido a partir da **playlist "Curso Java Básico"** no YouTube:  
 https://www.youtube.com/watch?v=BPi1YDiyGpM&list=PLydTfeQoIagVJO6h4fN8IMhyRi708I76O
 
-O conteúdo foi concluído no **sábado, 16 de agosto de 2025** (se estiver se referindo a esse dia; caso contrário, ajuste conforme sua data).
-
+O conteúdo foi concluído no **sábado, 16 de agosto de 2025** 
 ##  Estrutura do Projeto
 
 ```
